@@ -77,11 +77,11 @@ A list of references on lidar point cloud processing for autonomous driving
 * LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving CVPR 2019 [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Meyer_LaserNet_An_Efficient_Probabilistic_3D_Object_Detector_for_Autonomous_Driving_CVPR_2019_paper.pdf)]
 * Range Conditioned Dilated Convolutions for Scale Invariant 3D Object Detection 2020 [[pdf](https://arxiv.org/abs/2005.09927)]
 * AFDet: Anchor Free One Stage 3D Object Detection [[pdf](https://arxiv.org/abs/2006.12671)]
-* SA-SSD: Structure Aware Single-stage 3D Object Detection from Point Cloud (CVPR 2020) [[pdf](https://www4.comp.polyu.edu.hk/~cslzhang/paper/SA-SSD.pdf), [git](https://github.com/skyhehe123/SA-SSD)]
+~~* SA-SSD: Structure Aware Single-stage 3D Object Detection from Point Cloud (CVPR 2020) [[pdf](https://www4.comp.polyu.edu.hk/~cslzhang/paper/SA-SSD.pdf), [git](https://github.com/skyhehe123/SA-SSD)]~~ Failed because OPs couldn't be compiled properly
 * Any Motion Detector: Learning Class-agnostic Scene Dynamics from a Sequence of LiDAR Point Clouds, ICRA 2020 [[pdf](https://arxiv.org/abs/2004.11647)]
 * MVLidarNet: Real-Time Multi-Class Scene Understanding for Autonomous Driving Using Multiple Views [[link](https://www.youtube.com/watch?v=2ck5_sToayc), [video](https://www.youtube.com/watch?v=2ck5_sToayc)]
 * Learning to Optimally Segment Point Clouds, ICRA 2020 [[pdf](https://arxiv.org/abs/1912.04976), [video](https://www.youtube.com/watch?v=wLxIAwIL870), [git](https://github.com/peiyunh/opcseg)]
-* What You See is What You Get: Exploiting Visibility for 3D Object Detection [[pdf](https://arxiv.org/abs/1912.04986), [video](https://www.youtube.com/watch?v=497OF-otY2k), [project](https://www.cs.cmu.edu/~peiyunh/wysiwyg/index.html)]
+~~* What You See is What You Get: Exploiting Visibility for 3D Object Detection [[pdf](https://arxiv.org/abs/1912.04986), [video](https://www.youtube.com/watch?v=497OF-otY2k), [project](https://www.cs.cmu.edu/~peiyunh/wysiwyg/index.html)]~~ Failed because Pybind11 isn't installed properly
 
 ## Classification/Supervised Learning
 * PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation [[link](http://stanford.edu/~rqi/pointnet/), [link2](http://stanford.edu/~rqi/pointnet2/)]
